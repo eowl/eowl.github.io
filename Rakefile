@@ -6,7 +6,7 @@ require 'active_support/all'
 
 namespace :post do
 
-  desc "Create an new post template"
+  desc "Create a new post template"
   task :new do
     unless ENV["TITLE"]
       raise "ERROR: e.g. rake gen:post TITLE='post file name'"
@@ -33,4 +33,6 @@ namespace :post do
 
     puts "Created #{post_path}"
   end
+
+  
 end
