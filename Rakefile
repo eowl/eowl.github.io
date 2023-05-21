@@ -34,5 +34,18 @@ namespace :post do
     puts "Created #{post_path}"
   end
 
-  
+  desc "handle images CND of post"
+  task :image_cdn do
+    directory = File.expand_path('_posts/', File.dirname(__FILE__))
+    if ENV['FILENAME']
+      src = ENV['IMG_SRC']
+      dis =
+      post_path = File.join(directory, ENV['FILENAME'])
+      text = File.read(post_path)
+      new_contents = text.gsub(ENV['IMG_SRC'], ENV['IMG_DIST'])
+      File.open(post_path, "w") { |file| file.puts new_contents }
+      
+      puts "Image link replaced #{post_path}"
+    end
+  end
 end
