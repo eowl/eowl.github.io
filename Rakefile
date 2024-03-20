@@ -9,7 +9,7 @@ namespace :post do
   desc "Create a new post template"
   task :new do
     unless ENV["TITLE"]
-      raise "ERROR: e.g. rake gen:post TITLE='post file name'"
+      raise "ERROR: e.g. rake post:new TITLE='post file name'"
     end
 
     title = ENV['TITLE']
