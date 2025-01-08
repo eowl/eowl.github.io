@@ -8,15 +8,15 @@ date:   2023-11-11 23:00:00 +0800
 #四驱车 #Mini4WD #B-MAX
 
 
-<img alt-text="super2 bmax 1" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/IMG_8427.jpg" />
+<img alt-text="super2 bmax 1" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_1.jpg" />
 
-<img alt-text="super2 bmax 2" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/IMG_8431.jpg" />
+<img alt-text="super2 bmax 2" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_2.jpg" />
 
-<img alt-text="super2 bmax 3" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/IMG_8416.jpg" />
+<img alt-text="super2 bmax 3" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_3.jpg" />
 
-<img alt-text="super2 bmax 4" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/IMG_8429.jpg" />
+<img alt-text="super2 bmax 4" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_4.jpg" />
 
-<img alt-text="super2 bmax 5" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/IMG_8423.jpg" />
+<img alt-text="super2 bmax 5" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_5.jpg" />
 
 
 |   配件装置    | 配件名称 | Item No.     |
