@@ -6,15 +6,15 @@ date:   2024-03-20 23:00:00 +0800
 
 #ITX #Intel
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/IMG_0479.jpg" />
+<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_1.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/IMG_0586.jpg" />
+<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_2.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/IMG_0591.jpg" />
+<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_3.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/IMG_0593.jpg" />
+<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_4.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/IMG_0584.jpg" />
+<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_5.jpg" />
 
 
 | **主板**      | 华硕 ASUS ROG B560-i 17x17   |
