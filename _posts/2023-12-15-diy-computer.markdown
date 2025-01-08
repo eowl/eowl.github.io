@@ -6,17 +6,17 @@ date:   2023-12-15 23:00:00 +0800
 
 #MATX #AMD #B550 #RX6750GRE 
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9093.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_1.jpg" />
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9095.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_2.jpg" />
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9110.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_3.jpg" />
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9112.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_4.jpg" />
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9117.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_5.jpg" />
 
-<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/IMG_9121.JPEG" />
+<img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_6.jpg" />
 
 | **主板**      | 华硕 ASUS TUF Gaming B550m plus wifi II |
 | **CPU**      |  AMD Ryzen 5 5500  |
