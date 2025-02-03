@@ -2,9 +2,8 @@
 layout: post
 title:  "AMD 5500 Radeon RX6750GRE"
 date:   2023-12-15 23:00:00 +0800
+tags: MATX AMD B550 RX6750GRE
 ---
-
-#MATX #AMD #B550 #RX6750GRE 
 
 <img alt-text="AMD 5500 Radeon RX6750GRE" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/12/img_1.jpg" />
 

@@ -2,9 +2,8 @@
 layout: post
 title:  "RIDER R2 ITX"
 date:   2024-03-20 23:00:00 +0800
+tags: ITX Intel B560 NVIDIA GTX970
 ---
-
-#ITX #Intel
 
 <img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_1.jpg" />
 
