@@ -51,6 +51,7 @@ jekyll-archives:
 
 header_pages:
   - about.markdown
+  - tag.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
