@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-paginate
 
 jekyll-archives:
   enabled: 
@@ -47,12 +48,17 @@ jekyll-archives:
   layout: archive
   permalinks:
     tag: '/tag/:name/'
-    category: '/category/:name/'
+    # category: '/category/:name/'
 
 header_pages:
   - category.md
   - tag.md
   - about.markdown
+
+paginate: 3
+paginate_path: "/post/page/:num/"
+
+permalink: /:year/:month/:day/:title:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
