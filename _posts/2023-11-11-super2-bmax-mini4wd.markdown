@@ -3,6 +3,7 @@ layout: post
 title:  "Super 2 B-MAX"
 date:   2023-11-11 23:00:00 +0800
 tags: 四驱车 Mini4WD B-MAX
+category: 玩
 ---
 
 

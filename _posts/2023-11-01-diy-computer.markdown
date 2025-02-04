@@ -3,6 +3,7 @@ layout: post
 title:  "AMD 5600 RTX 4060Ti"
 date:   2023-11-01 23:00:00 +0800
 tags: MATX AMD NVIDIA B550 RTX4060Ti
+category: 玩
 ---
 
 <img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_1.jpg" />
