@@ -41,7 +41,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    {% if site.paginate %}
+    {% if site.paginate.total_pages > 1 %}
       <div class="pager">
         <ul class="pagination">
         {%- if paginator.previous_page %}

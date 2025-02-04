@@ -48,14 +48,13 @@ jekyll-archives:
   layout: archive
   permalinks:
     tag: '/tag/:name/'
-    # category: '/category/:name/'
+    category: '/category/:name/'
 
 header_pages:
   - category.md
   - tag.md
-  - about.markdown
 
-paginate: 3
+paginate: 20
 paginate_path: "/post/page/:num/"
 
 permalink: /:year/:month/:day/:title:output_ext
