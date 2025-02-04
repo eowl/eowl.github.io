@@ -50,8 +50,9 @@ jekyll-archives:
     category: '/category/:name/'
 
 header_pages:
-  - about.markdown
+  - category.md
   - tag.md
+  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
