@@ -3,7 +3,7 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
     
     <div class="footer-col-wrapper">
       <div class="footer-col">
@@ -15,7 +15,7 @@
             <!-- <span>Subscribe</span> -->
           </a>
         </p>
-      {%- if site.author %}
+      <!-- {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
@@ -24,7 +24,15 @@
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
-      {%- endif %}
+      {%- endif %} -->
+      <p>
+        {%- if site.copyright %}
+          Copyright &copy; {{ site.time | date: "%Y" }}
+          {%- if site.author %}
+            {{ site.author.name | escape }}'s Site
+          {%- endif %}
+        {%- endif %}
+      </p>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>

@@ -25,7 +25,7 @@ title: Eowl
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 author:
-  # name: Eowl
+  name: Eowl
   # email: your-email@domain.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -61,6 +61,8 @@ paginate: 20
 paginate_path: "/post/page/:num/"
 
 permalink: /:year/:month/:day/:title:output_ext
+
+copyright: 2025
 
 # Exclude from processing.
 # The following items will not be processed, by default.
