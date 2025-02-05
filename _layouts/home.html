@@ -21,25 +21,27 @@ layout: default
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if post.category -%}
-          <span class="post-meta" itemprop="articleSection"> • {{ post.category }}</span>
-        {%- endif -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="card">
+      <ul class="post-list">
+        {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+        {%- for post in posts -%}
+        <li>
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {%- if post.category -%}
+            <span class="post-meta" itemprop="articleSection"> • {{ post.category }}</span>
+          {%- endif -%}
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
 
     {% if site.paginate.total_pages > 1 %}
       <div class="pager">
