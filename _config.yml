@@ -63,6 +63,7 @@ paginate_path: "/post/page/:num/"
 permalink: /:year/:month/:day/:title:output_ext
 
 copyright: 2025
+lang: zh-CN
 
 # Exclude from processing.
 # The following items will not be processed, by default.
