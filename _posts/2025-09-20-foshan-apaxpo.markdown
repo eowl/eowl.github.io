@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "佛山 APAxpo 2025 展"
-date:   2025-09-15 23:00:00 +0800
+date:   2025-09-20 23:00:00 +0800
 tags: 佛山 顺德 潭州 APAxpo 改装车展 模型 火车模型 N比例 1:64
 category: 玩
 ---
