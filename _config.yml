@@ -65,6 +65,8 @@ permalink: /:year/:month/:day/:title:output_ext
 copyright: 2025
 lang: zh-CN
 
+image_width: 900
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
