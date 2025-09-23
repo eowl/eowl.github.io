@@ -6,4 +6,4 @@ tags: 键盘
 category: 物
 ---
 
-<img alt-text="diy-keyboard" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/06/img_1.jpg" />
+<img alt-text="diy-keyboard" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/06/img_1.jpg" />

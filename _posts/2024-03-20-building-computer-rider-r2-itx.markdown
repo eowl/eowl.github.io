@@ -6,15 +6,15 @@ tags: ITX Intel B560 NVIDIA GTX970
 category: 玩
 ---
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_1.jpg" />
+<img alt-text="RIDER R2 ITX" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_1.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_2.jpg" />
+<img alt-text="RIDER R2 ITX" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_2.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_3.jpg" />
+<img alt-text="RIDER R2 ITX" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_3.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_4.jpg" />
+<img alt-text="RIDER R2 ITX" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_4.jpg" />
 
-<img alt-text="RIDER R2 ITX" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_5.jpg" />
+<img alt-text="RIDER R2 ITX" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/03/img_5.jpg" />
 
 
 | **主板**      | 华硕 ASUS ROG B560-i 17x17   |

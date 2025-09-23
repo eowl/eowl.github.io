@@ -96,8 +96,6 @@ DF7D
 
 <img alt-text="20250920 29" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2025/09/2025092029.jpg" />
 
-
-
 绿光的Subaru Impreza WRX STI，通常我没有买过绿光的模型，只知道质量在同行中略差。看展这天正好下雨，在场外淋雨时，绿光的工作人员送了一把伞，入场会就专门过去看看，正巧他们的展会限定是虫眼翼豹。这车的包装设计特别有意思，是硬塑料的可拆装挂卡。
 <img alt-text="20250920 37" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2025/09/2025092037.jpg" />
 

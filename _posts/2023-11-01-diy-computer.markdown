@@ -6,15 +6,15 @@ tags: MATX AMD NVIDIA B550 RTX4060Ti
 category: 玩
 ---
 
-<img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_1.jpg" />
+<img alt-text="AMD 5600 RTX 4060Ti" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_1.jpg" />
 
-<img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_2.jpg" />
+<img alt-text="AMD 5600 RTX 4060Ti" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_2.jpg" />
 
-<img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_3.jpg" />
+<img alt-text="AMD 5600 RTX 4060Ti" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_3.jpg" />
 
-<img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_4.jpg" />
+<img alt-text="AMD 5600 RTX 4060Ti" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_4.jpg" />
 
-<img alt-text="AMD 5600 RTX 4060Ti" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_5.jpg" />
+<img alt-text="AMD 5600 RTX 4060Ti" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/img_5.jpg" />
 
 | **主板**      | 华硕 ASUS TUF Gaming B550m plus wifi II |
 | **CPU**      |  AMD Ryzen 5 5600  |

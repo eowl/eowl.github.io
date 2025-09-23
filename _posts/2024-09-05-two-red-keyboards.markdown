@@ -6,4 +6,4 @@ tags: 键盘 维咖Lucky65 维咖Spring
 category: 物
 ---
 
-<img alt-text="diy-keyboard" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/09/img_1.jpg" />
+<img alt-text="diy-keyboard" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2024/09/img_1.jpg" />

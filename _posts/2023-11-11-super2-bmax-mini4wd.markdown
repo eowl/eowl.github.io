@@ -7,15 +7,15 @@ category: 玩
 ---
 
 
-<img alt-text="super2 bmax 1" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_1.jpg" />
+<img alt-text="super2 bmax 1" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_1.jpg" />
 
-<img alt-text="super2 bmax 2" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_2.jpg" />
+<img alt-text="super2 bmax 2" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_2.jpg" />
 
-<img alt-text="super2 bmax 3" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_3.jpg" />
+<img alt-text="super2 bmax 3" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_3.jpg" />
 
-<img alt-text="super2 bmax 4" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_4.jpg" />
+<img alt-text="super2 bmax 4" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_4.jpg" />
 
-<img alt-text="super2 bmax 5" width="800" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_5.jpg" />
+<img alt-text="super2 bmax 5" width="{{ site.image_width }}" src="https://cdn.jsdelivr.net/gh/eowl/my-images/2023/11/mini4wd_5.jpg" />
 
 
 |   配件装置    | 配件名称 | Item No.     |
